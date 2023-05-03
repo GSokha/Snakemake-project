@@ -1,5 +1,4 @@
 configfile: "inputs.json"
-import glob
 
 rule all:
     input:
