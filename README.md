@@ -3,11 +3,11 @@
   A project in transcriptomics. 
   
   Pre-requirements:
-  fastqc
-  multiqc
-  bbduk (compiled in tools/ folder)
-  STAR
-  featureCounts
+  fastqc,
+  multiqc,
+  bbduk (compiled in tools/ folder),
+  STAR,
+  featureCounts,
   
   Run:
   The workflow runs with the command "snakemake --core 1"
